@@ -1,5 +1,8 @@
 import React from "react"
 import {Sasi} from "./manoj"
+import {Mani} from "./manoj"
+import {Component2} from "./manoj"
+import {Component4, Component5, New} from "./sasi"
 function App()
 {
     
@@ -7,6 +10,11 @@ function App()
     <>
         <h1>react basic function</h1>
         <Sasi/>
+        <Mani/>
+        <Component2/>
+        <New/>
+        <Component4/>
+        <Component5/>
     </>
     )
 }
