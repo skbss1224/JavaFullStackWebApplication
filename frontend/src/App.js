@@ -2,7 +2,7 @@ import React from "react"
 import {Sasi} from "./manoj"
 import {Mani} from "./manoj"
 import {Component2} from "./manoj"
-import {Component4, Component5, New} from "./sasi"
+import {Component4, Component5, Component6, New} from "./sasi"
 function App()
 {
     
@@ -15,6 +15,7 @@ function App()
         <New/>
         <Component4/>
         <Component5/>
+        <Component6/>
     </>
     )
 }

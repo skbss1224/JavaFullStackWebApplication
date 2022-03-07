@@ -33,6 +33,7 @@ export const Mani=()=>{
 }
 
 export const Component2=()=>{
+  
     return(
         <>
         <h2>An ordered HTML list</h2>
