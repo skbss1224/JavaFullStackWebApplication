@@ -3,19 +3,13 @@ import {Sasi} from "./manoj"
 import {Mani} from "./manoj"
 import {Component2} from "./manoj"
 import {Component4, Component5, Component6, New} from "./sasi"
-function App()
+import {Recuired} from "./required"
+const App=()=>
 {
     
     return(
     <>
-        <h1>react basic function</h1>
-        <Sasi/>
-        <Mani/>
-        <Component2/>
-        <New/>
-        <Component4/>
-        <Component5/>
-        <Component6/>
+        <Recuired/>
     </>
     )
 }
